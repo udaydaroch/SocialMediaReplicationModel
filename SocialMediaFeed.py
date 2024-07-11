@@ -81,7 +81,7 @@ def main():
         print("6. Get Feed for User")
         print("7. Exit")
         
-        choice = input("Enter your choice: ")
+        choice = input("Enter your choice(eg 1): ")
         
         if choice == "1":
             user_id = input("Enter user ID: ")
